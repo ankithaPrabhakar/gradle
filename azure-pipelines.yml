@@ -16,4 +16,3 @@ steps:
   displayName: 'Building the gradle application'
 - script: gradle run
   displayName: 'Running gradle application'
-
